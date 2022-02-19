@@ -1,0 +1,103 @@
+{
+  "main": {
+    "id": "067c1094ffd30997",
+    "type": "split",
+    "children": [
+      {
+        "id": "14a178b6f5e1bf78",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Call with Stormy.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "aa418c6eea49ad9d",
+    "type": "split",
+    "children": [
+      {
+        "id": "97106f2b92637b2c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "96a031a14ec5f88c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "7a0a2cc97d5e3084",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9f31479b47f0821c",
+    "type": "split",
+    "children": [
+      {
+        "id": "93bab875659917fc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2d751ff99b5e73ce",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Call with Stormy.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "14a178b6f5e1bf78",
+  "lastOpenFiles": [
+    "Call with Stormy.md",
+    "2-17-2020.md",
+    "PR/FR-1871.md",
+    "Models/device-models.md",
+    "hooks/app/useDevicesData.md",
+    "contexts/devices/DeviceContext.md",
+    "constants/app-constants.md",
+    "Autocomplete.md",
+    "Pasted image 20220215173851.png",
+    "Pasted image 20220213235716.png"
+  ]
+}
